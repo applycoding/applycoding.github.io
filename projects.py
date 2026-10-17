@@ -26,6 +26,7 @@ GROUPS = {
 # Live demos (GitHub Pages). Add repo -> URL as they go live.
 LIVE = {
   "react-ts-fleet-dashboard": "https://applycoding.github.io/react-ts-fleet-dashboard/",
+  "angular-admin-portal": "https://applycoding.github.io/angular-admin-portal/",
 }
 # Fallback descriptions for repos without a GitHub description.
 DESC = {
